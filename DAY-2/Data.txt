@@ -85,7 +85,9 @@ Today Agenda:
 		(Copy data from one file to another file)
 	->ls -l(List of Hidden Files)
 	
-	
+	Today(Day-3[19-05-2021])
+		Agenda:
+				
 	->Git init
 		1).local
 			Myfolder
@@ -137,11 +139,105 @@ Today Agenda:
 		-->git pull remotename master(fetching data from Cloud)
 			ex:git pull gist master
 			
-			
-	
-	Today(Day-3[19-05-2021])
-		Agenda:
+		-->clone(getting repository(other person) from cloud to local)
+			->git clone repositoryurl
+		
+		-->fork(github repository (other person) taking into our repository
+		
+		-->Markdown systax
+				-->prepare documentation
 				
 	
 	
+	
+	Today Agenda[20-05-2020]
+		--> Python Inro
+				-> python is a general Purpose interpreated,iterative,object orinted and high level programming lanugae
+				-> it was created by GUDIO VAN ROSSUM  in the year of 1991
+				-> it is easy to learn and easy to implement
+				-> it have lot of modules and  packages
+				-> syntax  is simple compare to other languages like c,C++,Java ....
+				-> python fallows indentation(one tab space)
+						-->controll Statements
+						-->itetation
+					c
+					 #inlude<stdio.h>
+					 int main(){
+						int data=[];
+						scanf("%s ",data);
+						printf("Hello Good Morning ");
+						if ('a'=='a'){
+							printf("Yes");
+							printf("True");'
+						}
+						else{
+							printf("No");
+							printf("False")
+						}
+						return 0;
+					 }
+					 
+					 python:
+						data=input("Enter Data")
+						print("Hello Good Morning")
+						if('a'=='a'):
+							print("YES")
+							if(10==10):
+								print("YES")
+								for i in range(10,20):
+									
+					
+				
+				
+		-> Features of Python,
+			-->simple and Easy to learn
+			-->free & open Sourse
+			-->high Level Laguage
+			-->portable
+			-->it support different Programming paradigm
+			-->Extensible
+			-->Interpreated
+			-->Object -Orinted 
+				
+		-> What is the use of python?(img)
+		--> python is communicate different platforms
+				-->Web Development
+					-->Django
+					-->Flask
+					-->py
+						
+				-->Desktop application
+					-->Tkinter
+				-->Hardware intration
+					->Rasberrypi(Hardware Component)-->IOT
+						-->Python
+						
+							
+						
+		-> Difference B/W Python3 and Python 2
+		-> instatiion
+			-->Various platfoms
+				-->online
+						online python compillers
+							->https://www.programiz.com/python-programming/online-compiler/
+							->Google Colab(Access this one we need gmail account)
+				-->offline
+						Python Software link:https://www.python.org/downloads/windows/
+								3.6,3.7,3.8,3.9
+								
+					-->IDLE
+					-->Commandpromt
+			-->Anacond Navigator
+					link :https://www.anaconda.com/products/individual
+					
+					-->ipynb:integrated python notebook 
+					-->py:python
+			
+		-> Variables
+				declaration
+				
+		-> keywords
+		-> input and output
+		-> Data types[img]
+		-> operators[img]
 	
